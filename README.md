@@ -1,1 +1,1 @@
-# speech-emotion-detection
+# SPEECH-EMOTION-DETECTION
